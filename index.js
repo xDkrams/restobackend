@@ -1,7 +1,7 @@
 const express = require("express");
 const app = express();
 const cors = require("cors");
-const port = 8080;
+const port = process.env.PORT || 8080;
 
 const bodyParser = require("body-parser");
 const itemsRouter = require("./routes/items");

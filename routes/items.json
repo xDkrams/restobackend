@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Excelsa-Darker",
+    "origin": "Benguet",
+    "varieties": "Liberica",
+    "roast": "Dark",
+    "beanType": "whole",
+    "image": "https://learn.bluecoffeebox.com/wp-content/uploads/2018/09/Coffee-beans-varietals.jpg",
+    "price": 1500
+  },
+  {
+    "id": 2,
+    "name": "Robusta-Dark",
+    "origin": "Sagada",
+    "varieties": "Robusta",
+    "roast": "Dark",
+    "beanType": "whole",
+    "image": "https://media.karousell.com/media/photos/products/2022/4/21/benguet_coffee_beans_1650526919_be4a27af_progressive.jpg",
+    "price": 1000
+  },
+  {
+    "id": 3,
+    "name": "arabica-Medium",
+    "origin": "Benguet",
+    "varieties": "Arabica",
+    "roast": "Medium",
+    "beanType": "whole",
+    "image": "https://cdn.shopify.com/s/files/1/0494/9157/4947/products/medium_150x.jpg?v=1608415767",
+    "price": 450
+  },
+  {
+    "id": 4,
+    "name": "Liberica-Darrrrrrrrrk",
+    "origin": "Benguet",
+    "varieties": "Liberica",
+    "roast": "Dark",
+    "beanType": "whole",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGLB5cddX1Q8W7q9SWih9VSd2M6ZOMRrh8DqrLYrwtO0KNh2gIDGBaYCaxIIWJSa8_TDE&usqp=CAU",
+    "price": 1500
+  }
+]
